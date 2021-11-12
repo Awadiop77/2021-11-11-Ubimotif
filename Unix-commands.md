@@ -65,3 +65,5 @@ touch EMPTY.txt (to create an empty file)
 cp -r trash (copy command FOR FOLDERS)
 rm -ir trash/
 mv data 2021-11-11-ubimotif
+
+## Hello 
